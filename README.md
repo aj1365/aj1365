@@ -1,5 +1,5 @@
 # Dr. Ali Jamali
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliasghar68@gmail.com)](mailto:ali.jamali.@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.jamali.65@gmail.com)](mailto:ali.jamali.65@gmail.com)
 ![GitHub Followers](https://img.shields.io/github/followers/aj1365?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/aj1365?style=social)
 [![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Ali-Jamali) 
