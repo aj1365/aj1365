@@ -8,11 +8,12 @@
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
 
-🔬 **Dr. Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a Ph.D. degree in Geoinformatics
+🔬 **Dr. Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a Ph.D. degree in Geoinformatics.
 
-- Developing cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
+Experiences:
+- Developed cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
 - Experience working with top scientists in remote sensing and computer science
-- Industrial and academic R&D experience
+- Extensive industrial and academic R&D experience
 - Proven academic research and development capability in digital image processing for optical and SAR remote sensing
 
 Areas of Interest:
