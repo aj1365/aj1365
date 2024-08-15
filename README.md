@@ -10,7 +10,7 @@
 
 🔬 **Dr. Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a Ph.D. degree in Geoinformatics
 
-- Developing cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring) (https://github.com/aj1365)
+- Developing cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
 - Experience working with top scientists in remote sensing and computer science
 - Industrial and academic R&D experience
 - Proven academic research and development capability in digital image processing for optical and SAR remote sensing
