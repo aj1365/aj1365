@@ -1,4 +1,4 @@
-# Dr. Ali Jamali
+# Ali Jamali
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.jamali.65@gmail.com)](mailto:ali.jamali.65@gmail.com)
 ![GitHub Followers](https://img.shields.io/github/followers/aj1365?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/aj1365?style=social)
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
 
-🔬 **Dr. Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a Ph.D. degree in Geoinformatics.
+🔬 **Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a Ph.D. degree in Geoinformatics.
 
 Experiences:
 - Developed cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
