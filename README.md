@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
 
 🔬 **Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a **Ph.D.** degree in **Geoinformatics**.
 
