@@ -10,13 +10,13 @@
 
 🔬 **Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a **Ph.D.** degree in **Geoinformatics**.
 
-Experiences:
+**Experiences:**
 - Developed cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
 - Experience working with top scientists in remote sensing and computer science
 - Extensive industrial and academic R&D experience
 - Proven academic research and development capability in digital image processing for optical and SAR remote sensing
 
-Areas of Interest:
+**Areas of Interest:**
 - Geoinformatics, Geographical Information Science (GIS), Geospatial data analysis
 - Remote Sensing, Earth Observation, Synthetic Aperture Radar (SAR), Multispectral, Hyperspectral
 - Large-scale area monitoring, change detection, time series analysis, site monitoring
