@@ -14,6 +14,7 @@
 
 
 🔬 **Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a **Ph.D.** degree in **Geoinformatics**.
+His **Ph.D.** was related to **advanced mathematics** (https://www.genealogy.math.ndsu.nodak.edu/id.php?id=218551).
 
 **Experiences:**
 - Developed cutting-edge methods for various remote sensing applications (e.g., deforestation mapping, flood monitoring, wetlands mapping and monitoring)
